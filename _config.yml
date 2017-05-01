@@ -8,8 +8,8 @@ relative_permalinks: true
 title:               Selenium Code Snippets
 tagline:             'for lazy tester'
 description:         'A collection of code snippets for lazy automation tester.'
-url:                 https://yatheeshraju.github.io/Selenium-Code-Snippets/
-baseurl:             ''
+url:                 https://yatheeshraju.github.io
+baseurl:             '/Selenium-Code-Snippets'
 paginate:            3
 
 # About/contact
